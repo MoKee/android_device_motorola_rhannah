@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_rhannah.mk
+    $(LOCAL_DIR)/mokee_rhannah.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_rhannah-user \
-    lineage_rhannah-userdebug \
-    lineage_rhannah-eng
+    mokee_rhannah-user \
+    mokee_rhannah-userdebug \
+    mokee_rhannah-eng
